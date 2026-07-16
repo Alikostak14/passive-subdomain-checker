@@ -26,3 +26,7 @@ Aracın çalışması için sisteminizde `curl` ve `jq` araçlarının kurulu ol
 
 ```bash
 sudo apt update && sudo apt install jq curl -y
+
+
+
+Bu araç sadece eğitim ve güvenlik testi (Bug Bounty, Sızma Testleri) amaçlı geliştirilmiştir. Kullanıcıların gerçekleştirdiği eylemlerin sorumluluğu tamamen kendilerine aittir.
