@@ -1,0 +1,7 @@
+# Bu araç bir Bash betiğidir. Çalışması için sisteminizde aşağıdaki paketlerin kurulu olması gerekir:
+#
+# - jq (JSON işleyici)
+# - curl (HTTP istekleri için)
+#
+# Debian/Ubuntu tabanlı sistemlerde (Kali, Parrot vb.) kurulum için:
+# sudo apt install jq curl -y
