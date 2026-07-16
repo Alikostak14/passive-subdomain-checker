@@ -17,6 +17,9 @@ Gelişmiş, çoklu kaynak desteğine sahip ve yüksek performanslı bir pasif su
 * **🎨 Görsel ve Temiz Çıktı:** Terminal ekranında durum kodlarını emojilerle (`✅`, `↪️ `, `⚠️ `, `❌`) renklendirirken, sonuçları düzenli bir şekilde log dosyasına kaydeder.
 
 ---
+Bu araç sadece siber güvenlik araştırmaları, Bug Bounty süreçleri ve yetkili sızma testleri amacıyla geliştirilmiştir. Kullanımdan doğabilecek tüm sorumluluk son kullanıcıya aittir.
+
+
 
 ## 📋 Gereksinimler
 
