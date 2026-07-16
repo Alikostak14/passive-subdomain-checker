@@ -1,7 +1,5 @@
-# Bu araç bir Bash betiğidir. Çalışması için sisteminizde aşağıdaki paketlerin kurulu olması gerekir:
-#
-# - jq (JSON işleyici)
-# - curl (HTTP istekleri için)
-#
-# Debian/Ubuntu tabanlı sistemlerde (Kali, Parrot vb.) kurulum için:
-# sudo apt install jq curl -y
+# Temel Kullanım (Varsayılan 15 thread ve otomatik dosya ismi)
+./subdomain_finder.sh example.com
+
+# Özelleştirilmiş Kullanım (30 thread paralel çalışma ve özel çıktı dosyası)
+./subdomain_finder.sh example.com -o hedef_sonuc.txt -t 30
